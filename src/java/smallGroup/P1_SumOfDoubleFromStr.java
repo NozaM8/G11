@@ -1,4 +1,4 @@
-package smallGroup;
+package java.smallGroup;
 
 import java.text.DecimalFormat;
 
